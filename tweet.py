@@ -56,6 +56,6 @@ def search(tag):
 
 # specify hastags
 while True:
-    tags = ["#PUBG", "#CSGO", "#firebase", "#tweepy"]
+    tags = ["#PUBG", "#CSGO", "#firebase", "#tweepy" , "#IND"]
     search(random.choice(tags))
         time.sleep(60)
